@@ -2,9 +2,10 @@
 
 <div align="center">
   <a href="https://github.com/jizreelguimaraes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jizreelguimaraes&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jizreelguimaraes&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jizreelguimaraes&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jizreelguimaraes&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Jizreel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  />
   <img align="center" alt="Jizreel-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"  />
